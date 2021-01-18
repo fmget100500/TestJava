@@ -5,7 +5,7 @@ public class TestOne {
 	//System.out.println("Конструктор");
 	
 	//static String name = "tesnName";
-    protected String s = "Hello World!";
+    protected String s = "Hello World!"; // защищенная
 
 	static String name;
 	
